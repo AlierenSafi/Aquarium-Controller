@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 header: images/logo.jpg
 gem "github-pages", group: :jekyll_plugins
 title: Aquarium Controller
-google_analytics:
+google_analytics: G-WESRWNMF5R
