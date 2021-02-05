@@ -38,5 +38,4 @@ Many devices were working in my aquarium and I wanted to control them all remote
 - **Suitable sockets and cables for connections.**
 
 #### PCB Gerber File:
-- https://drive.google.com/file/d/1IBYi2cwjg_B-tD6VX7-P76m7oBVC1CNp/view?usp=sharing
 - You can order PCB using the gerber file.
