@@ -36,3 +36,7 @@ Many devices were working in my aquarium and I wanted to control them all remote
 - Resistors (11x 10k ohm, 4x 4.7k ohm, 6x 220 ohm, 1x 3.3k ohm and 1x 1k ohm)
 - Capasitors (1x 100uF and 1x 10uF)
 - **Suitable sockets and cables for connections.**
+
+#### PCB Gerber File:
+- https://drive.google.com/file/d/1IBYi2cwjg_B-tD6VX7-P76m7oBVC1CNp/view?usp=sharing
+- You can order PCB using the gerber file.
