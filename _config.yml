@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-header: images/logo.jpg
+logo: images/logo.jpg
 gem "github-pages", group: :jekyll_plugins
 title: Aquarium Controller
 google_analytics: G-WESRWNMF5R
