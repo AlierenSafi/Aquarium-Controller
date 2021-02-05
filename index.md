@@ -43,4 +43,4 @@ Many devices were working in my aquarium and I wanted to control them all remote
 
 ### **PCB**
 
-![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG)
+![Image](https://github.com/AlierenSafi/Aquarium-Controller/blob/main/Gerber%20File/pcb.PNG)
