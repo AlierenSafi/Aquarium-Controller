@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 header: images/logo.jpg
 gem "github-pages", group: :jekyll_plugins
 title: Aquarium Controller
