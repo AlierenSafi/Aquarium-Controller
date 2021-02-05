@@ -23,7 +23,7 @@ Many devices were working in my aquarium and I wanted to control them all remote
 - 1x Arduino MEGA 2560.	
 - 1x LM2596 Buck converter module. [here](https://www.amazon.com/Adjustable-Converter-1-5-35v-Efficiency-Regulator/dp/B07QKHR6PY/ref=sr_1_3?dchild=1&keywords=LM2596&qid=1612530712&sr=8-3)
 - 1x ESP-01 Wi-Fi module.
-- 1x HC-05 Bluetooth module.
+- 1x HC-05 Bluetooth module [here](https://www.amazon.com/HiLetgo-Bluetooth-Transceiver-Integrated-Communication/dp/B07VL725T8/ref=sr_1_2?dchild=1&keywords=hc05&qid=1612538199&sr=8-2)
 - 4x 5v Relay Module (x2 pieces) [here](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM/ref=sr_1_3?dchild=1&keywords=4+channel+relay+module&qid=1612532646&sr=8-3)
 - 1x LM1117T-3.3V - TO-220 for ESP-01 power [here](https://www.amazon.com/Bridgold-LM1117T-3-3V-Dropout-Positive-Regulator/dp/B08C7VSCC5/ref=sr_1_2?dchild=1&keywords=LM1117&qid=1612533033&sr=8-2)
 - 2x LED
