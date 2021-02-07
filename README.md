@@ -37,11 +37,11 @@ Many devices were working in my aquarium and I wanted to control them all remote
 - Capasitors (1x 100uF and 1x 10uF)
 - **Suitable sockets and cables for connections.**
 
-![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/List.PNG)
+![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/List.PNG?raw=true)
 
 #### PCB Gerber File:
 - You can order PCB using the gerber file.
 
 ### **PCB**
 
-![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG)
+![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true)
