@@ -3,7 +3,7 @@
 
 Many devices were working in my aquarium and I wanted to control them all remotely. For this reason, I designed an arduino based PCB that will control them and at the same time transmit data about my aquarium to phone.
 
-#### Features of PCB:
+### Features of PCB:
 - Internal power supply.
 - 8 x relay control.
 - Bluetooth.
@@ -19,7 +19,7 @@ Many devices were working in my aquarium and I wanted to control them all remote
 
 
 
-#### Materials:
+### Materials:
 - 1x Arduino MEGA 2560.	
 - 1x LM2596 Buck converter module. [here](https://www.amazon.com/Adjustable-Converter-1-5-35v-Efficiency-Regulator/dp/B07QKHR6PY/ref=sr_1_3?dchild=1&keywords=LM2596&qid=1612530712&sr=8-3)
 - 1x ESP-01 Wi-Fi module.
@@ -39,9 +39,15 @@ Many devices were working in my aquarium and I wanted to control them all remote
 
 ![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/List.PNG?raw=true)
 
-#### PCB Gerber File:
+### PCB Gerber File:
 - You can order PCB using the gerber file.
 
 ### **PCB**
 
 ![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true)
+
+### ESP8266
+- ESP8266 need esp-link firmware (https://github.com/jeelabs/esp-link)
+
+### License
+- You can use, modify, fork and redistribute this code free of charge with no restrictions for non-commercial use only. For commercial use please contact with the author.
