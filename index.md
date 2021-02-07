@@ -47,7 +47,7 @@ Many devices were working in my aquarium and I wanted to control them all remote
 ![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true)
 
 ### ESP8266
-- ESP8266 need esp-link firmware (https://github.com/jeelabs/esp-link)
+- ESP8266 need [esp-link](https://github.com/jeelabs/esp-link) firmware.
 
 ### License
 - You can use, modify, fork and redistribute this code free of charge with no restrictions for non-commercial use only. For commercial use please contact with the author.
