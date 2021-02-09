@@ -41,10 +41,11 @@ Many devices were working in my aquarium and I wanted to control them all remote
 
 ### PCB Gerber File:
 - You can order PCB using the gerber file.
-
+ <img src="https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true" width="200" height="200">
+ 
 ### **PCB**
 
-![Image](https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true)
+
 
 ### ESP8266
 - ESP8266 need [esp-link](https://github.com/jeelabs/esp-link) firmware.
