@@ -43,7 +43,7 @@ Many devices were working in my aquarium and I wanted to control them all remote
 - You can order PCB using the gerber file.
  <img src="https://github.com/AlierenSafi/AquariumController/blob/main/Gerber%20File/pcb.PNG?raw=true" width="200" height="200">
 
-### **PCB**
+### PCB
  <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/front.jpg?raw=true" width="200" height="200">
  <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/back.jpg?raw=true" width="200" height="200">
  <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/with_components.jpg?raw=true" width="200" height="200">
