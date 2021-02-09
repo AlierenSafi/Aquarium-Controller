@@ -45,8 +45,8 @@ Many devices were working in my aquarium and I wanted to control them all remote
 
 ### PCB
  <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/front.jpg?raw=true" width="200" height="200">
- <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/back.jpg?raw=true" width="200" height="200">
- <img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/with_components.jpg?raw=true" width="200" height="200">
+<img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/back.jpg?raw=true" width="200" height="200">
+<img src="https://github.com/AlierenSafi/Aquarium-Controller/blob/main/images/with_components.jpg?raw=true" width="200" height="200">
 
 
 ### ESP8266
